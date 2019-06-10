@@ -1,0 +1,8 @@
+body {
+	background-image: url("parkinglot.jpg");
+	background-size: 500px;
+	background-position-x: 10px;
+	background-repeat: no-repeat;
+    position: absolute;
+  
+}
